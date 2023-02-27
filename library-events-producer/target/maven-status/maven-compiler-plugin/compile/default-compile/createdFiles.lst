@@ -1,0 +1,6 @@
+com\learnkafka\domain\Book.class
+com\learnkafka\controller\LibraryEventsController.class
+com\learnkafka\domain\Book$BookBuilder.class
+com\learnkafka\domain\LibraryEvent$LibraryEventBuilder.class
+com\learnkafka\domain\LibraryEvent.class
+com\learnkafka\LibraryEventsProducerApplication.class

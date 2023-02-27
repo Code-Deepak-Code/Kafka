@@ -1,0 +1,9 @@
+rootProject.name = 'springboot-examples'
+
+include 'springboot-api'
+include 'springboot-config'
+include 'springboot-jpa'
+include 'springboot-kafka'
+include 'springboot-openfeign'
+include 'springboot-email'
+include 'springboot-xml'
